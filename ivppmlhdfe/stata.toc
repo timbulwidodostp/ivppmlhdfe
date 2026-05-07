@@ -2,4 +2,4 @@
 1
 2
 3
-p xtkr The Keane & Runkle Estimator for Dynamic Panel Estimation Use xtkr With STATA 19
+p ivppmlhdfe IV Poisson pseudo-maximum likelihood estimation with high-dimensional fixed effects Use ivppmlhdfe With STATA 19
